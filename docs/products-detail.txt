@@ -1,0 +1,15 @@
+Jensen Decors — Product Detail Document (shared)
+
+This is a single shared detail sheet linked from every product.
+If your teacher requires individual Word documents, you can replace this with multiple .docx files.
+
+Detailed Features (example):
+- Materials and finish: (write here)
+- Sizes and dimensions: (write here)
+- Installation / mounting: (write here)
+- Care instructions: wipe with dry cloth
+- Warranty: 6 months (sample)
+
+Contact:
+Email: info@jensendecors.example
+
